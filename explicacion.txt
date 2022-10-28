@@ -1,4 +1,0 @@
-ejercio 9 
-resuelto con busquedas no informada, (busqueda primero en anchura BPA)
-se ira desplegando nodos, y comprobando si alguno de ellos es la solución,
-para el ejercio hice una lista dandole un valor numerico a cada palito
